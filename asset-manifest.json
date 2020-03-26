@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prix0007/gh-pages-test.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/prix0007/gh-pages-test.git/static/js/main.90212fbf.chunk.js",
+    "main.js.map": "/prix0007/gh-pages-test.git/static/js/main.90212fbf.chunk.js.map",
+    "runtime-main.js": "/prix0007/gh-pages-test.git/static/js/runtime-main.38d73679.js",
+    "runtime-main.js.map": "/prix0007/gh-pages-test.git/static/js/runtime-main.38d73679.js.map",
+    "static/js/2.9fca7837.chunk.js": "/prix0007/gh-pages-test.git/static/js/2.9fca7837.chunk.js",
+    "static/js/2.9fca7837.chunk.js.map": "/prix0007/gh-pages-test.git/static/js/2.9fca7837.chunk.js.map",
+    "index.html": "/prix0007/gh-pages-test.git/index.html",
+    "precache-manifest.6069ec98dd8b8b654e578be009fc6163.js": "/prix0007/gh-pages-test.git/precache-manifest.6069ec98dd8b8b654e578be009fc6163.js",
+    "service-worker.js": "/prix0007/gh-pages-test.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/prix0007/gh-pages-test.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9fca7837.chunk.js.LICENSE.txt": "/prix0007/gh-pages-test.git/static/js/2.9fca7837.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/prix0007/gh-pages-test.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38d73679.js",
+    "static/js/2.9fca7837.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.90212fbf.chunk.js"
+  ]
+}
